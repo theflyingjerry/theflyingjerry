@@ -4,6 +4,7 @@
   -  🐍 Python
   -  🎯 Dart
   -  🖥 HTML and CSS
+  -  C/C++
 - 💞️ I’m looking to collaborate on any intermediate Flutter projects
 - 📫 Reach me @ phoenm@rpi.edu
 
